@@ -1,2 +1,10 @@
 pip install django
 django-admin startproject my_site
+cd my_site
+python manage.py runserver 
+python manage.py runserver 8080
+
+web app - complete web application
+Django app - is a part of the Django project
+
+python manage.py startapp my_app
